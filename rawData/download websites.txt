@@ -1,0 +1,2 @@
+1. UCI dataset: http://archive.ics.uci.edu/ml/datasets/emg+dataset+in+lower+limb.
+2. SIAT-LLMD dataset: https://doi.org/10.6084/m9.figshare.c.6271164.v1.
