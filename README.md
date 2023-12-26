@@ -1,4 +1,3 @@
-### Codes for paper "Interpretable Dual-Branch EMGNet: A Transfer Learning-based Network for Inter-Subject Lower Limb Motion Intention Recognition" (EAAI-23-6594, Under Review). We provide the implementation of CNN-EMGNets and IDB-EMGNets, as well as the implementation of machine learning models and deep learning models for comparison.
 ### Install: 
 Install the required dependencies using "pip install requirements.txt".
 ### Usage:
